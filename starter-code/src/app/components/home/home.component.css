@@ -1,0 +1,10 @@
+.jumbotron{
+  margin-top: 150px;
+  text-align: center;
+}
+
+.nav-link{
+  font-size: 35px;
+  text-decoration: underline;
+  color: black;
+}
